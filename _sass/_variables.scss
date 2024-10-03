@@ -44,13 +44,12 @@ $p-pink-7: #8a2846;
 $p-pink-8: #602437;
 $p-pink-9: #000000;
 
-$readable-peach-bg: #EDD1B0;
-$readable-peach-light-analog: #EDEDB0;
-$readable-peack-dark-analog: #EDB3B0;
-$readable-peach-complement-blue: #B0CCED;
-$readable-peach-green: #B0EDB3;
-$readable-peach-pink: #EDB0EB;
-
+$readable-peach-bg: #edd1b0;
+$readable-peach-light-analog: #ededb0;
+$readable-peack-dark-analog: #edb3b0;
+$readable-peach-complement-blue: #b0cced;
+$readable-peach-green: #b0edb3;
+$readable-peach-pink: #edb0eb;
 
 // My readable theme
 $my-theme-bg: #{$readable-peach-bg};
@@ -60,8 +59,6 @@ $my-theme-code-bg-dark: #{$readable-peack-dark-analog};
 $my-theme-accent-primary: #{$readable-peach-complement-blue};
 $my-theme-accent-secondary: #{$readable-peach-green};
 $my-theme-accent-tertiary: #{$readable-peach-pink};
-
-
 
 $code-bg-color-light: rgba($purple-color, 0.05);
 $code-bg-color-dark: #2c3237 !default;

@@ -6,16 +6,16 @@
 
 :root {
   --global-bg-color: #{$my-theme-bg};
-  --global-code-bg-color: #{$my-theme-bg-light};
+  --global-code-bg-color: #{$my-theme-code-bg-light};
   --global-text-color: #{$black-color};
   --global-text-color-light: #{$grey-color-light};
   --global-theme-color: #{$my-theme-accent-primary};
   --global-hover-color: #{$my-theme-accent-primary};
   --global-hover-text-color: #{$my-theme-bg-light};
-  --global-footer-bg-color: #{$p-pink-4};
+  --global-footer-bg-color: #{$my-theme-accent-tertiary};
   --global-footer-text-color: #{$my-theme-bg};
   --global-footer-link-color: #{$my-theme-bg-light};
-  --global-distill-app-color: #{$p-pink-3};
+  --global-distill-app-color: #{$my-theme-accent-primary};
   --global-divider-color: rgba(0, 0, 0, 0.1);
   --global-card-bg-color: #{$my-theme-bg-light};
   --global-highlight-color: #{$red-color-dark};
